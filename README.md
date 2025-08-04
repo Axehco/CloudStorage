@@ -1,2 +1,1 @@
-# CloudStorage
 🌴jsDeliver CDN
